@@ -1,4 +1,5 @@
 # weather-app
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+aws test / vue api connet
+>>>>>>> 0054038a631e68d0c009e8d5126b45f63ebd03e9
